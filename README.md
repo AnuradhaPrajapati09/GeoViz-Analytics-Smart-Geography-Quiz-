@@ -1,5 +1,5 @@
 # 🌍 GeoViz Analytics - Smart Geography Quiz
-
+[🚀 View Live App](https://your-app-link.streamlit.app/)
 GeoViz Analytics is an interactive web application designed to bridge the gap between data visualization and geographical learning. Built with **Python** and **Streamlit**, it provides users with a platform to explore global data trends and challenge their knowledge via a dynamic quiz system.
 
 ## ✨ Key Features
